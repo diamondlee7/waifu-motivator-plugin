@@ -8,4 +8,6 @@ public interface WaifuMotivatorIcons {
 
     Icon MENU = IconLoader.getIcon( "/icons/wmp.svg" );
 
+    log.info("hey whats up");
+
 }
